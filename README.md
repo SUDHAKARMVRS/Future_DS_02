@@ -129,7 +129,7 @@ This project demonstrates an end-to-end **data science workflow** from raw data 
 ## 👤 Author
 
 **Sudhakar M**
+ 📧sudhakar.mvrs@gmail.com| 🌐 (https://www.linkedin.com/in/sudhakar-m-657ba787/)
 
 ---
 
-⭐ If you find this project useful, feel free to explore and enhance it further!
